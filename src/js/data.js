@@ -2,11 +2,9 @@ import image1 from "../assets/media/images/1.jpg"
 import image2 from "../assets/media/images/2.jpg"
 import image3 from "../assets/media/images/3.jpg"
 import image4 from "../assets/media/images/4.gif"
-
 import audio1 from "../assets/media/audio/1.mp3"
 import audio2 from "../assets/media/audio/2.mp3"
 import audio3 from "../assets/media/audio/3.mp3"
-
 import video1 from "../assets/media/video/1.mp4"
 import video2 from "../assets/media/video/2.mp4"
 
